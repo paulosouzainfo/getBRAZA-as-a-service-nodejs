@@ -25,3 +25,8 @@ client.inputTransaction({
 ```bash
 npm test
 ```
+
+Para rodar os testes e gerar um relatório de cobertura:
+```bash
+npm run test:coverage
+```
